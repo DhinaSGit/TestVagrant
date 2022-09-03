@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26795" started-at="2022-09-03T06:40:42Z" finished-at="2022-09-03T06:41:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26795" started-at="2022-09-03T06:40:42Z" finished-at="2022-09-03T06:41:09Z">
+      <class name="com.MovieDetails.MovieDetails">
+        <test-method status="PASS" signature="timerStart()[pri:0, instance:com.MovieDetails.MovieDetails@7e990ed7]" name="timerStart" is-config="true" duration-ms="5" started-at="2022-09-03T06:40:42Z" finished-at="2022-09-03T06:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timerStart -->
+        <test-method status="PASS" signature="iMDB(java.lang.String)[pri:1, instance:com.MovieDetails.MovieDetails@7e990ed7]" name="iMDB" duration-ms="13804" started-at="2022-09-03T06:40:42Z" data-provider="mName" finished-at="2022-09-03T06:40:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pushpa: The Rise]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iMDB -->
+        <test-method status="PASS" signature="wiki(java.lang.String)[pri:2, instance:com.MovieDetails.MovieDetails@7e990ed7]" name="wiki" duration-ms="12843" started-at="2022-09-03T06:40:56Z" data-provider="mName" finished-at="2022-09-03T06:41:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pushpa: The Rise]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wiki -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:com.MovieDetails.MovieDetails@7e990ed7]" name="browserClose" is-config="true" duration-ms="126" started-at="2022-09-03T06:41:09Z" finished-at="2022-09-03T06:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method status="PASS" signature="timerEnd()[pri:0, instance:com.MovieDetails.MovieDetails@7e990ed7]" name="timerEnd" is-config="true" duration-ms="1" started-at="2022-09-03T06:41:09Z" finished-at="2022-09-03T06:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timerEnd -->
+      </class> <!-- com.MovieDetails.MovieDetails -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

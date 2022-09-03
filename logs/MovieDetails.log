@@ -1,0 +1,24 @@
+[INFO ] 2022-09-03 11:55:40.246 [main] MovieDetails - Browser Opened and URL loaded - IMDB
+[INFO ] 2022-09-03 11:55:49.761 [main] MovieDetails - Title searched - IMDB
+[INFO ] 2022-09-03 11:55:53.056 [main] MovieDetails - First Option Seleted - IMDB
+[INFO ] 2022-09-03 11:55:53.082 [main] MovieDetails - Assertion for Title and print title - IMDB
+[INFO ] 2022-09-03 11:55:53.759 [main] MovieDetails - Assertion for the date and print date - IMDB
+[INFO ] 2022-09-03 11:55:53.780 [main] MovieDetails - Assertion for Country and Print it - IMDB
+[INFO ] 2022-09-03 11:55:53.783 [main] MovieDetails - Browser Opened and URL loaded - Wiki
+[INFO ] 2022-09-03 11:55:57.235 [main] MovieDetails - Title searched - Wiki
+[INFO ] 2022-09-03 11:55:57.343 [main] MovieDetails - Assertion for Title and print title - Wiki
+[INFO ] 2022-09-03 11:55:58.065 [main] MovieDetails - Assertion for the date and print date - Wiki
+[INFO ] 2022-09-03 11:56:03.103 [main] MovieDetails - Assertion for Country and Print it - Wiki
+[INFO ] 2022-09-03 11:56:03.105 [main] MovieDetails - Browser closed
+[INFO ] 2022-09-03 12:10:42.496 [TestNG-test=Test-1] MovieDetails - Browser Opened and URL loaded - IMDB
+[INFO ] 2022-09-03 12:10:51.104 [TestNG-test=Test-1] MovieDetails - Title searched - IMDB
+[INFO ] 2022-09-03 12:10:55.035 [TestNG-test=Test-1] MovieDetails - First Option Seleted - IMDB
+[INFO ] 2022-09-03 12:10:55.077 [TestNG-test=Test-1] MovieDetails - Assertion for Title and print title - IMDB
+[INFO ] 2022-09-03 12:10:56.275 [TestNG-test=Test-1] MovieDetails - Assertion for the date and print date - IMDB
+[INFO ] 2022-09-03 12:10:56.295 [TestNG-test=Test-1] MovieDetails - Assertion for Country and Print it - IMDB
+[INFO ] 2022-09-03 12:10:56.298 [TestNG-test=Test-2] MovieDetails - Browser Opened and URL loaded - Wiki
+[INFO ] 2022-09-03 12:11:00.343 [TestNG-test=Test-2] MovieDetails - Title searched - Wiki
+[INFO ] 2022-09-03 12:11:00.424 [TestNG-test=Test-2] MovieDetails - Assertion for Title and print title - Wiki
+[INFO ] 2022-09-03 12:11:01.115 [TestNG-test=Test-2] MovieDetails - Assertion for the date and print date - Wiki
+[INFO ] 2022-09-03 12:11:09.141 [TestNG-test=Test-2] MovieDetails - Assertion for Country and Print it - Wiki
+[INFO ] 2022-09-03 12:11:09.142 [TestNG-test=Test-2] MovieDetails - Browser closed
