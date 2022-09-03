@@ -20,6 +20,7 @@ AssignmentTV
   >JRE system Libs 
   >Logs (contains the logger info) 
   >Screenshots (contains the screenshots of the test) 
+  >Test-Output
   >POM.xml 
   >testng.xml(xml file for execution from suite level)
 
@@ -29,6 +30,7 @@ Instructions of execution:
 * Open MovieDetails.java from com.MovieDetails and Right click and Run as TestNG
 * For parallel execution remove the priority keyword from the @Test annotation and Right click on testng.xml file and Run as TestNG Suite
 * Logger information of each steps can be found in the Logs folder Screenshots of the Test execution can be found in the Screenshots folder
+* Reports are generated in the test-output folder
 
 
 
