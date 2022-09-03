@@ -25,5 +25,6 @@ Open MovieDetails.java from com.MovieDetails and Right click and Run as TestNG
 For parallel execution remove the priority keyword from the @Test annotation and Right click on testng.xml file and Run as TestNG Suite
 Logger information of each steps can be found in the Logs folder Screenshots of the Test execution can be found in the Screenshots folder
 
+**CONTENTS ARE IN MASTER BRANCH
 **Note:View as RAW for project content expantions
 
