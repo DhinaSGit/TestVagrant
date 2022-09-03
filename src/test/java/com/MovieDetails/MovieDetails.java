@@ -88,8 +88,7 @@ public class MovieDetails extends BaseClass implements Endpoints {
 		
 		TakesScreenshot tk = (TakesScreenshot)driver;
 		File src = tk.getScreenshotAs(OutputType.FILE);
-		File des = new File("/Users/jyothieshwariselvam/eclipse-workspace/New_work_space/"
-				+ "AssignmentTV/screenshots/imdbDetails.png");
+		File des = new File(System.getProperty("user.dir")+ "/screenshots/imdbDetails.png");
 		FileUtils.copyFile(src, des);
 		
 		// Get the release date and assert
@@ -142,8 +141,7 @@ public class MovieDetails extends BaseClass implements Endpoints {
 				
 		TakesScreenshot tk = (TakesScreenshot)driver;
 		File src = tk.getScreenshotAs(OutputType.FILE);
-		File des = new File("/Users/jyothieshwariselvam/eclipse-workspace/New_work_space/"
-				+ "AssignmentTV/screenshots/wikiDetails.png");
+		File des = new File(System.getProperty("user.dir")+"/screenshots/wikiDetails.png");
 		FileUtils.copyFile(src, des);
 
 		// Get the release date and assert

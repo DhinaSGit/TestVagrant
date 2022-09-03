@@ -28,7 +28,12 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+/**
+ * 
+ * @author Dhinakaran S
+ * @Description reusable methods for selenium
+ *
+ */
 public class BaseClass {
 
 	public static WebDriver driver;

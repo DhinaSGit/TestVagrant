@@ -25,7 +25,7 @@ public class BrowserFactory extends BaseClass {
 	@FindBy(id = "suggestion-search")
 	private WebElement imdbSearchBar;
 
-	@FindBy(xpath = "(//h3[@class='ipc-title__text'])[9]")
+	@FindBy(xpath = "//section[@data-testid='Details']")
 	private WebElement imdbDetails;
 
 	@FindBy(id = "suggestion-search-button")
